@@ -26,7 +26,7 @@
         $email->Host = 'smtp-mail.outlook.com';
         $email->SMTPAuth = true;
         $email->Username = 'linduarte86@hotmail.com';
-        $email->Password = 'ljc778963ljc';
+        $email->Password = '***************';
         $email->Port = 587;
 
         $email->setFrom('linduarte86@hotmail.com');
